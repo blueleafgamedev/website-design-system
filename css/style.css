@@ -109,18 +109,3 @@ p {
 .permanent-marker {
     font-family: 'Permanent Marker', cursive;
 }
-
-.text-container {
-    border: 4px solid black;
-    text-align: center;
-    margin: 20px 40px;
-    padding-top: 10px;
-    padding-bottom: 40px;    
-}
-
-.text-panel {
-    display: inline;
-    width: 32%;
-    padding: 5px;
-    margin: 5px;
-}
